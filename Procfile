@@ -1,0 +1,1 @@
+worker: python main_movie_bot.py
