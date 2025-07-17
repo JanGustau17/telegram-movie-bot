@@ -4,5 +4,5 @@ firebase-admin
 aiohttp
 gunicorn
 fastapi
-pydantic-core==2.18.4 --only-binary=:all:
+pydantic-core==2.35.2 --only-binary=:all:
 pydantic==2.8
