@@ -1,3 +1,8 @@
 aiogram==3.7.0
 python-dotenv
 firebase-admin
+aiohttp
+gunicorn
+fastapi
+pydantic-core==2.18.4 --only-binary=:all:
+pydantic==2.8
