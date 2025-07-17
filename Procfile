@@ -1,1 +1,1 @@
-worker: python main_movie_bot.py
+web: gunicorn main_movie_bot:app
